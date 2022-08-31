@@ -1,1 +1,1 @@
-a command to print the current working absolute path
+A command to display contents of athe current directory
