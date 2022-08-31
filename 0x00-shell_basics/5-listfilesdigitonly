@@ -1,2 +1,2 @@
 #!/bin/bash
-ln|sort -n
+ln -la|sort -n
